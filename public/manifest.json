@@ -1,0 +1,15 @@
+{
+  "short_name": "Keen Agents",
+  "name": "Keen Agents - AI Employees for Your Business",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#04a5fa",
+  "background_color": "#ffffff"
+}
